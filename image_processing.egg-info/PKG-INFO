@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: Pacote de imagens
+Home-page: https://github.com/guilhermeheizer/image-processing-package
+Author: Guilherme Heizer Nogueira da Gama
+Author-email: guilhermeheizer@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplolib
+Requires-Dist: numpy
+Requires-Dist: skiimage-image>=0.16.1
+
+Pacote de imagens

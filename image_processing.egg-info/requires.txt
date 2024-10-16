@@ -1,0 +1,3 @@
+matplolib
+numpy
+skiimage-image>=0.16.1
